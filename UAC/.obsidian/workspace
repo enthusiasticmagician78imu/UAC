@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "496ab65396f68032",
+    "type": "split",
+    "children": [
+      {
+        "id": "8146f94f288c7af5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ImportanciaDeLasBasesDeDatos.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f248407b7fd57130",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3fde94982e2d848",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be648dfb8ceab90b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "450940c1dd6e4a6f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0033f9a5e7e7da8f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5d561e7084cd6a84",
+    "type": "split",
+    "children": [
+      {
+        "id": "608e31905c0cd23f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "196902638cd98e6d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ImportanciaDeLasBasesDeDatos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ed4abecf7ae95db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ImportanciaDeLasBasesDeDatos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18403fdb46df41ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b7aff34bf8fa9df2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ImportanciaDeLasBasesDeDatos.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8146f94f288c7af5",
+  "lastOpenFiles": [
+    "ConceptosDeEticaYMoral.md",
+    "GestionDeProcesosDeNegocio.md",
+    "HistoriaDeLasBasesDeDatos.md",
+    "ImportanciaDeLasBasesDeDatos.md",
+    "hello.md",
+    "Gestion de Procesos de Negocio 4758c452c18e4b4bbf66fc8004dfad30/2022-08-30-20-04-campus.uandina.edu.pe.png.md"
+  ]
+}
